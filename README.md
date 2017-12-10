@@ -11,8 +11,8 @@ Solution Application containing all the mentioned functionalities in the Assignm
 
 ### **Deploying / Publishing**
 ```shell
-git clone https://github.com/your/awesome-project.git
-cd awesome-project/
+git clone https://github.com/ThanveerulHuq/Hasura-Week1-Assignment.git
+cd Hasura-Week1-Assignment/Application
 python app.py
 ```
 Application will start running in the port 5000.
