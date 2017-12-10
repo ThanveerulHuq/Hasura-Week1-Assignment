@@ -5,12 +5,12 @@ Solution Application containing all the mentioned functionalities in the Assignm
 
 ## **Installing / Getting started**
 
-####**prerequisite**
+##**prerequisite**
  - Python 3.4.3
  **Python Libraries**
  - Flask
- -            Requests
- -           wtforms
+ - Requests
+ - wtforms
 
 ### **Deploying / Publishing**
 ```shell
