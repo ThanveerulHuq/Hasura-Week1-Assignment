@@ -4,9 +4,9 @@
 Solution Application containing all the mentioned functionalities in the Assignment questions.
 
 ## **Installing / Getting started**
-**prerequisite**
+<h4>**prerequisite**</h4>
  - Python 3.4.3<br>
- ###**Python Libraries**
+**Python Libraries**
  - Flask
  - Requests
  - wtforms
