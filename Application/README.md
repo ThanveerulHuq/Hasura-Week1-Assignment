@@ -4,9 +4,8 @@
 Solution Application containing all the mentioned functionalities in the Assignment questions.
 
 ## **Installing / Getting started**
-
-##**prerequisite**
- - Python 3.4.3
+**prerequisite**
+ - Python 3.4.3<br>
  ###**Python Libraries**
  - Flask
  - Requests
